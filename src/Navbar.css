@@ -1,0 +1,22 @@
+.nav-el {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: space-between;
+}
+.input-el {
+    width: 25%; 
+}
+/* App.css */
+.carousel-item img {
+    border-radius: 50%;
+  }
+  
+  .carousel-caption p {
+    font-size: 14px;
+    color: #000; /* You can change this as per your design */
+  }
+.icon-el {
+  display: inline-flex;
+}
+

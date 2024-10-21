@@ -1,0 +1,13 @@
+.box {
+    height: 33px;
+    width: 100vw;
+}
+
+.box .rectangle {
+    background-color: #155214;
+    height: 33px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
